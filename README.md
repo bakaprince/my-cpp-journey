@@ -1,8 +1,8 @@
 # My C++ Journey 🚀
 
-A comprehensive collection of C++ programs, practice exercises, and mini-projects tracking my journey learning modern C++ (C++20).
+A place where I document my C++ learning journey — the concepts I explore, problems I solve, and little projects I build along the way.
 
-Originally built and practiced using Visual Studio 2022, now organized into clean, modular topic directories so anyone can easily browse, compile, and run the programs using any standard C++ compiler or CMake.
+Starting with the fundamentals and gradually working my way towards mastering modern C++.
 
 ---
 
