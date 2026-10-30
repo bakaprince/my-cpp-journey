@@ -1,0 +1,82 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.pdb
+*.idb
+*.ilk
+
+# Visual Studio files and directories
+.vs/
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build directories
+x64/
+x86/
+Debug/
+Release/
+bin/
+build/
+out/
+cmake-build-*/
+[Bb]in/
+[Oo]bj/
+*.tlog
+*.log
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Clion / JetBrains
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
